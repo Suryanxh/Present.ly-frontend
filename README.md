@@ -724,12 +724,12 @@ Present.ly was built with:
 
 <div align="center">
 
-### Made with ❤️ for educators everywhere
+### Made with ❤️ by Suryansh for educators everywhere
 
 **Present.ly** - The future of classroom attendance is here.
 
 [Visit Website](https://presently.io) • [Start Free Trial](https://presently-main.streamlit.app) • [Report Issue](https://github.com/yourusername/Presently-frontend/issues)
 
-© 2025 Present.ly AI. All rights reserved.
+© 2026 Present.ly AI. All rights reserved.
 
 </div>
