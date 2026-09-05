@@ -633,7 +633,7 @@ Present.ly was built with:
 
 <div align="center">
 
-### Made with ❤️ by Suryanshfor educators everywhere
+### Made with ❤️ by Suryansh for educators everywhere
 
 **Present.ly** - The future of classroom attendance is here.
 
