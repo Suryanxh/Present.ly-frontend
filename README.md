@@ -593,62 +593,6 @@ We welcome contributions to improve Present.ly! Here's how you can help:
    - Screenshots of UI changes (if applicable)
    - Reference to related issues
 
-### Areas We Need Help With
-
-- 🎨 **UI/UX Improvements** - Design and frontend enhancements
-- 🐛 **Bug Reports** - File issues with reproducible steps
-- 📝 **Documentation** - Improve guides and API docs
-- 🌍 **Translations** - Help localize the platform
-- ⚡ **Performance** - Optimize loading times and processes
-- 🧪 **Testing** - Add unit and integration tests
-
-### Code Style
-
-- Use PEP 8 for Python code
-- Use BEM naming convention for CSS
-- Add docstrings to functions
-- Keep functions small and focused
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-**MIT License Summary:**
-- ✅ Commercial use allowed
-- ✅ Modification allowed
-- ✅ Distribution allowed
-- ✅ Private use allowed
-- ⚠️ Liability: Software provided AS-IS
-- ⚠️ Warranty: No warranty provided
-
-**Third-Party Licenses:**
-- Flask: BSD License
-- Face Recognition: MIT License
-- Supabase: Apache 2.0 License
-- Streamlit: Apache 2.0 License
-
----
-
-## 📞 Support & Contact
-
-### Getting Help
-
-- 📧 **Email Support**: support@presently.io
-- 🐛 **Report Issues**: [GitHub Issues](https://github.com/yourusername/Presently-frontend/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/Presently-frontend/discussions)
-- 📚 **Documentation**: [Full Docs](https://docs.presently.io)
-- 🎓 **Tutorials**: [Video Guides](https://youtube.com/presently)
-
-### Social & Community
-
-- 🐦 Twitter: [@PresentlyApp](https://twitter.com/PresentlyApp)
-- 💼 LinkedIn: [Present.ly](https://linkedin.com/company/presently-ai)
-- 🎥 YouTube: [Present.ly Channel](https://youtube.com/c/presently)
-
----
-
 ## 🙏 Acknowledgments
 
 Present.ly was built with:
@@ -686,45 +630,10 @@ Present.ly was built with:
 3. Create a teacher account to explore the dashboard
 4. Use the demo mode to test enrollment without real data
 
-### For Developers
-
-1. Clone this repo to contribute to the landing page
-2. Check out the main Streamlit repo for backend development
-3. Read `CONTRIBUTING.md` for development guidelines
-4. Follow the tech stack (Flask + HTML/CSS for this repo)
-
-### For Educators
-
-1. Watch the tutorial videos on the landing page
-2. Start with a single subject to test the system
-3. Enroll a few students manually to verify face/voice
-4. Run a test attendance session before using with the full class
-
----
-
-## 📝 Version History
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2025-09-05 | Initial public release with landing page |
-| 0.9.0 | 2025-08-20 | Beta launch with teacher dashboard |
-| 0.8.0 | 2025-08-10 | Student portal and enrollment added |
-
----
-
-## 🎓 Learn More
-
-- 📖 [Full Documentation](https://docs.presently.io)
-- 🎬 [Demo Video](https://youtube.com/presently)
-- 📰 [Blog & News](https://blog.presently.io)
-- 🏆 [Case Studies](https://presently.io/case-studies)
-- 💡 [FAQ](https://presently.io/faq)
-
----
 
 <div align="center">
 
-### Made with ❤️ by Suryansh for educators everywhere
+### Made with ❤️ by Suryanshfor educators everywhere
 
 **Present.ly** - The future of classroom attendance is here.
 
